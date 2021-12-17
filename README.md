@@ -25,7 +25,7 @@
 ```
 
 <h1>Soal nomor 3</h1>
-<h2>Relasi one to many</h2>
+<h2>Relasi one to one</h2>
 
 ```js
 {
