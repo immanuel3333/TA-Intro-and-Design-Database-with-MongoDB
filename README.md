@@ -1,13 +1,18 @@
 <h1>Soal nomor 1</h1>
+
+```js
 {
 "_id": "ObjectId('AAA')",
 "full_name": "Immanuel Julius Adik Putra Siburian",
 "email": "immanuel.siburian80@gmail.com",
 "phone_number": 081212313515
 }
+```
 
 <h1>Soal nomor 2</h1>
 <h2>Relasi one to many</h2>
+
+```js
 {
     "_id": "ObjectId('AAA')",
     "full_name": "Immanuel Julius Adik Putra Siburian",
@@ -17,9 +22,12 @@
         "ObjectId('LMN')",
     ]
 }
+```
 
 <h1>Soal nomor 3</h1>
 <h2>Relasi one to many</h2>
+
+```js
 {
     "_id": "ObjectId('AAA')",
     "product_name": "Kaos Polos",
@@ -38,9 +46,12 @@
         "price": "Rp 99.000",
     }]
 }
+```
 
 <h1>Soal nomor 4</h1>
 <h2>Relasi one to many</h2>
+
+```js
 [
     {
     "_id": "ObjectId('AAA')",
@@ -61,3 +72,4 @@
      "location": "Mall Kelapa Gading"
     }
 ]
+```
